@@ -9,10 +9,11 @@ To get started with the project, follow these steps:
 1. Clone the repository:  
 
     ```
-    git clone https://github.com/vaibhavharsoda/Registration-login-and-CRUD-action-using-React-js.git    
+    git clone https://github.com/satriyoaji/auth-crud-react
+    API source -> git clone https://github.com/satriyoaji/test-crud-auth  
     ```  
     ```
-    cd Registration-login-and-CRUD-action-using-React-js
+    cd auth-crud-react
     ```
 
 2. Install the dependencies:  
@@ -31,9 +32,6 @@ To get started with the project, follow these steps:
 5. Open your browser and navigate to `http://localhost:3000` to see the application.
 
 ## Features
-
-- User id :- admin
-- Password:- 11
 
 - User registration and login functionality with validation.
 - CRUD operations to manage data.
