@@ -81,7 +81,7 @@ function UserList() {
                             <thead>
                                 <tr>
                                     <th>Name</th>
-                                    <th>Description</th>
+                                    <th>Email</th>
                                     <th width="240px">Action</th>
                                 </tr>
                             </thead>
