@@ -22,19 +22,21 @@ To get started with the project, follow these steps:
       npm install
     ```
 
-3. Start the development server:  
+3. Copy file `.env.example` to `.env` in the same directory (root) then adjust your own API URL.
+
+4. Install and Running the API server based on https://github.com/satriyoaji/test-crud-auth
+
+5. Start the development server:  
     ```
      npm start
     ```
 
-4. Copy file `.env.example` to `.env` in the same directory (root) then adjust your own API URL.
-
-5. Open your browser and navigate to `http://localhost:3000` to see the application.
+6. Open your browser and navigate to `http://localhost:3000` to see the application.
 
 ## Features
 
 - User registration and login functionality with validation.
-- CRUD operations to manage data.
+- CRUD operations to manage data Users.
 - User-friendly interface using React and Bootstrap.
 - Axios for API communication.
 
